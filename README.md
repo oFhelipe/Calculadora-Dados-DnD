@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto desenvolvido foi uma calculadora para o jogo D&D(Dungeons and Dragons), o aplicativo foi construindo visando deixar o jogo mais dinâmico, fazendo com que as rolagens de dados sejam mais práticas e rápidas.
 
 ## 📱App
-1. Entre na pasta frontend
+1. Entre na pasta do projeto
 2. Rode o comando ```yarn``` para instalar as dependencias
 3. Rode o comando ```yarn start```
 
